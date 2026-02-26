@@ -10,5 +10,5 @@ timestamp=$(date '+%y-%m-%d-%H:%M:%S')
 
 zip -r "$dest/backup-$timestamp.zip" $src
 
-echo "successfully backup completed for $src file"
+echo "successfully backup completed for $src file yash"
 
