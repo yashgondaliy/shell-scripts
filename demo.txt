@@ -2,6 +2,4 @@ hello this shell through created file
 
 this commit is fine
 
-this is not fine commit (wrong, bug, issue)
-
 this commit is also fine
